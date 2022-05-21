@@ -1,0 +1,8 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Qfengx/tools.git",
+  "author": "YeShengtao <qffg1998@126.com>",
+  "license": "MIT"
+}
